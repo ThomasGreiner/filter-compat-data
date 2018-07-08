@@ -1,0 +1,131 @@
+{
+  "blocking": {
+    "__compat": {
+      "description": "Request blocking",
+      "mdn_url": "https://adblockplus.org/filters#introduction",
+      "support": {
+        "adblock": {
+          "version_added": true
+        },
+        "adblockplus": {
+          "version_added": true
+        },
+        "adguard": {
+          "version_added": true
+        },
+        "ublockorigin": {
+          "version_added": true
+        }
+      },
+      "status": {
+        "experimental": false,
+        "standard_track": true,
+        "deprecated": false
+      }
+    }
+  },
+  "comments": {
+    "__compat": {
+      "description": "Comments",
+      "mdn_url": "https://adblockplus.org/filters#comments",
+      "support": {
+        "adblock": {
+          "version_added": true
+        },
+        "adblockplus": {
+          "version_added": true
+        },
+        "adguard": {
+          "version_added": null
+        },
+        "ublockorigin": {
+          "version_added": null
+        }
+      },
+      "status": {
+        "experimental": false,
+        "standard_track": true,
+        "deprecated": false
+      }
+    }
+  },
+  "hiding": {
+    "__compat": {
+      "description": "Element hiding",
+      "mdn_url": "https://adblockplus.org/filters#elemhide",
+      "support": {
+        "adblock": {
+          "version_added": true
+        },
+        "adblockplus": {
+          "version_added": true
+        },
+        "adguard": {
+          "version_added": null
+        },
+        "ublockorigin": {
+          "version_added": null
+        }
+      },
+      "status": {
+        "experimental": false,
+        "standard_track": true,
+        "deprecated": false
+      }
+    }
+  },
+  "links": {
+    "__compat": {
+      "description": "Subscription links",
+      "support": {
+        "adblock": {
+          "version_added": true
+        },
+        "adblockbrowser": {
+          "version_added": true
+        },
+        "adblockplus": {
+          "version_added": true
+        },
+        "adguard": {
+          "version_added": true
+        },
+        "libadblockplus": {
+          "version_added": false
+        },
+        "ublockorigin": {
+          "version_added": true
+        }
+      },
+      "status": {
+        "experimental": false,
+        "standard_track": true,
+        "deprecated": false
+      }
+    }
+  },
+  "styling": {
+    "__compat": {
+      "description": "Style injection",
+      "support": {
+        "adblock": {
+          "version_added": null
+        },
+        "adblockplus": {
+          "version_added": false
+        },
+        "adguard": {
+          "version_added": true
+        },
+        "ublockorigin": {
+          "version_added": true
+        }
+      },
+      "status": {
+        "experimental": false,
+        "standard_track": false,
+        "deprecated": false
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "blocking": {
+    "options": {
+      "badfilter": {
+        "__compat": {
+          "mdn_url": "https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#badfilter",
+          "support": {
+            "adblock": {
+              "version_added": false
+            },
+            "adblockplus": {
+              "version_added": false
+            },
+            "adguard": {
+              "version_added": true
+            },
+            "ublockorigin": {
+              "version_added": true
+            }
+          },
+          "status": {
+            "experimental": false,
+            "standard_track": false,
+            "deprecated": false
+          }
+        }
+      }
+    }
+  }
+}

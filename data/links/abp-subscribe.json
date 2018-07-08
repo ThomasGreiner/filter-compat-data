@@ -1,0 +1,38 @@
+{
+  "links": {
+    "abp-subscribe": {
+      "__compat": {
+        "description": "abp:subscribe?...",
+        "support": {
+          "adblock": {
+            "version_added": true
+          },
+          "adblockbrowser": {
+            "version_added": true
+          },
+          "adblockplus": {
+            "version_added": true
+          },
+          "adguard": {
+            "partial_implementation": true,
+            "notes": [
+              "Limited to certain domains",
+              "Filter lists are imported as individual filters"
+            ]
+          },
+          "libadblockplus": {
+            "version_added": false
+          },
+          "ublockorigin": {
+            "version_added": true
+          }
+        },
+        "status": {
+          "experimental": false,
+          "standard_track": true,
+          "deprecated": false
+        }
+      }
+    }
+  }
+}

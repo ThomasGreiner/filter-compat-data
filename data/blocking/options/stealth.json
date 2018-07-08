@@ -1,0 +1,30 @@
+{
+  "blocking": {
+    "options": {
+      "stealth": {
+        "__compat": {
+          "mdn_url": "https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#stealth",
+          "support": {
+            "adblock": {
+              "version_added": false
+            },
+            "adblockplus": {
+              "version_added": false
+            },
+            "adguard": {
+              "version_added": true
+            },
+            "ublockorigin": {
+              "version_added": false
+            }
+          },
+          "status": {
+            "experimental": false,
+            "standard_track": false,
+            "deprecated": false
+          }
+        }
+      }
+    }
+  }
+}

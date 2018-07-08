@@ -1,0 +1,34 @@
+{
+  "hiding": {
+    "extended": {
+      "properties-before": {
+        "__compat": {
+          "description": ":properties-before()",
+          "mdn_url": "https://adblockplus.org/filters#elemhide-emulation",
+          "support": {
+            "adblock": {
+              "version_added": null
+            },
+            "adblockplus": {
+              "alternative_name": ":-abp-properties()",
+              "version_added": true
+            },
+            "adguard": {
+              "alternative_name": ":matches-css-before()",
+              "version_added": true
+            },
+            "ublockorigin": {
+              "alternative_name": ":matches-css-before()",
+              "version_added": true
+            }
+          },
+          "status": {
+            "experimental": false,
+            "standard_track": true,
+            "deprecated": false
+          }
+        }
+      }
+    }
+  }
+}

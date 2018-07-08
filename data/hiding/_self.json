@@ -1,0 +1,79 @@
+{
+  "hiding": {
+    "allow": {
+      "__compat": {
+        "description": "Exception rules",
+        "mdn_url": "https://adblockplus.org/filters#elemhide_exceptions",
+        "support": {
+          "adblock": {
+            "version_added": true
+          },
+          "adblockplus": {
+            "version_added": true
+          },
+          "adguard": {
+            "version_added": null
+          },
+          "ublockorigin": {
+            "version_added": null
+          }
+        },
+        "status": {
+          "experimental": false,
+          "standard_track": true,
+          "deprecated": false
+        }
+      }
+    },
+    "deny": {
+      "__compat": {
+        "description": "Hiding rules",
+        "mdn_url": "https://adblockplus.org/filters#elemhide",
+        "support": {
+          "adblock": {
+            "version_added": true
+          },
+          "adblockplus": {
+            "version_added": true
+          },
+          "adguard": {
+            "version_added": null
+          },
+          "ublockorigin": {
+            "version_added": null
+          }
+        },
+        "status": {
+          "experimental": false,
+          "standard_track": true,
+          "deprecated": false
+        }
+      }
+    },
+    "extended": {
+      "__compat": {
+        "description": "Extended hiding",
+        "mdn_url": "https://adblockplus.org/filters#elemhide-emulation",
+        "support": {
+          "adblock": {
+            "version_added": null
+          },
+          "adblockplus": {
+            "version_added": true
+          },
+          "adguard": {
+            "version_added": null
+          },
+          "ublockorigin": {
+            "version_added": null
+          }
+        },
+        "status": {
+          "experimental": false,
+          "standard_track": true,
+          "deprecated": false
+        }
+      }
+    }
+  }
+}

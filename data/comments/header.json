@@ -1,0 +1,28 @@
+{
+  "comments": {
+    "header": {
+      "__compat": {
+        "description": "[Adblock]",
+        "support": {
+          "adblock": {
+            "version_added": null
+          },
+          "adblockplus": {
+            "version_added": true
+          },
+          "adguard": {
+            "version_added": null
+          },
+          "ublockorigin": {
+            "version_added": null
+          }
+        },
+        "status": {
+          "experimental": false,
+          "standard_track": true,
+          "deprecated": false
+        }
+      }
+    }
+  }
+}

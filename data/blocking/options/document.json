@@ -1,0 +1,34 @@
+{
+  "blocking": {
+    "options": {
+      "document": {
+        "__compat": {
+          "mdn_url": "https://adblockplus.org/filters#options",
+          "support": {
+            "adblock": {
+              "version_added": true
+            },
+            "adblockplus": {
+              "version_added": true
+            },
+            "adguard": {
+              "version_added": true
+            },
+            "ublockorigin": {
+              "partial_implementation": true,
+              "version_added": true,
+              "notes": [
+                "Not supported for exception rules (see <a href='https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#not-supported'>uBlock Origin Wiki</a>)."
+              ]
+            }
+          },
+          "status": {
+            "experimental": false,
+            "standard_track": true,
+            "deprecated": false
+          }
+        }
+      }
+    }
+  }
+}

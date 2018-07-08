@@ -1,0 +1,31 @@
+{
+  "blocking": {
+    "options": {
+      "donottrack": {
+        "__compat": {
+          "mdn_url": "https://adblockplus.org/filters#options",
+          "support": {
+            "adblock": {
+              "version_added": false
+            },
+            "adblockplus": {
+              "version_added": "1.3.5",
+              "version_removed": "2.2.2"
+            },
+            "adguard": {
+              "version_added": false
+            },
+            "ublockorigin": {
+              "version_added": null
+            }
+          },
+          "status": {
+            "experimental": false,
+            "standard_track": true,
+            "deprecated": true
+          }
+        }
+      }
+    }
+  }
+}
