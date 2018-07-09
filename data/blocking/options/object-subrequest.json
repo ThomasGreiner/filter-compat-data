@@ -9,10 +9,16 @@
               "version_added": null
             },
             "adblockplus": {
-              "version_added": null
+              "version_added": true,
+              "notes": [
+                "On browsers other than Firefox this option also matches requests of the type OBJECT."
+              ]
             },
             "adguard": {
-              "version_added": true
+              "version_added": true,
+              "notes": [
+                "On browsers other than Firefox this option also matches requests of the type OBJECT."
+              ]
             },
             "ublockorigin": {
               "version_added": null
