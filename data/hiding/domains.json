@@ -1,0 +1,32 @@
+{
+  "hiding": {
+    "domains": {
+      "__compat": {
+        "description": "Domain restrictions",
+        "mdn_url": "https://adblockplus.org/filters#elemhide_domains",
+        "support": {
+          "adblock": {
+            "version_added": true
+          },
+          "adblockplus": {
+            "version_added": true,
+            "notes": [
+              "Support for inverse domains was added in version 1.1"
+            ]
+          },
+          "adguard": {
+            "version_added": null
+          },
+          "ublockorigin": {
+            "version_added": null
+          }
+        },
+        "status": {
+          "experimental": false,
+          "standard_track": true,
+          "deprecated": false
+        }
+      }
+    }
+  }
+}

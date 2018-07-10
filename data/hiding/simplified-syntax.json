@@ -1,0 +1,28 @@
+{
+  "hiding": {
+    "simplified-syntax": {
+      "__compat": {
+        "description": "Simplified syntax",
+        "support": {
+          "adblock": {
+            "version_added": null
+          },
+          "adblockplus": {
+            "version_added": false
+          },
+          "adguard": {
+            "version_added": null
+          },
+          "ublockorigin": {
+            "version_added": null
+          }
+        },
+        "status": {
+          "experimental": false,
+          "standard_track": true,
+          "deprecated": true
+        }
+      }
+    }
+  }
+}
