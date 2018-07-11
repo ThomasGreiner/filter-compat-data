@@ -12,7 +12,10 @@
             "version_added": true
           },
           "adguard": {
-            "version_added": null
+            "partial_implementation": true,
+            "notes": [
+              "Filters without domains are being ignored"
+            ]
           },
           "ublockorigin": {
             "version_added": null
@@ -37,7 +40,7 @@
             "version_added": true
           },
           "adguard": {
-            "version_added": null
+            "version_added": true
           },
           "ublockorigin": {
             "version_added": null
@@ -62,7 +65,7 @@
             "version_added": true
           },
           "adguard": {
-            "version_added": null
+            "version_added": true
           },
           "ublockorigin": {
             "version_added": null
