@@ -1,0 +1,29 @@
+{
+  "blocking": {
+    "options": {
+      "__compat": {
+        "description": "Options",
+        "mdn_url": "https://adblockplus.org/filters#options",
+        "support": {
+          "adblock": {
+            "version_added": true
+          },
+          "adblockplus": {
+            "version_added": true
+          },
+          "adguard": {
+            "version_added": true
+          },
+          "ublockorigin": {
+            "version_added": true
+          }
+        },
+        "status": {
+          "experimental": false,
+          "standard_track": true,
+          "deprecated": false
+        }
+      }
+    }
+  }
+}

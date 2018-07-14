@@ -1,8 +1,8 @@
 {
-  "blocking": {
+  "comments": {
     "__compat": {
-      "description": "Request blocking",
-      "mdn_url": "https://adblockplus.org/filters#introduction",
+      "description": "Comments",
+      "mdn_url": "https://adblockplus.org/filters#comments",
       "support": {
         "adblock": {
           "version_added": true
@@ -14,10 +14,7 @@
           "version_added": true
         },
         "ublockorigin": {
-          "version_added": true,
-          "notes": [
-            "Filters are also matched against top level frame request."
-          ]
+          "version_added": null
         }
       },
       "status": {

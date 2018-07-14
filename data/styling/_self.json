@@ -1,25 +1,24 @@
 {
-  "hiding": {
+  "styling": {
     "__compat": {
-      "description": "Element hiding",
-      "mdn_url": "https://adblockplus.org/filters#elemhide",
+      "description": "Style injection",
       "support": {
         "adblock": {
-          "version_added": true
+          "version_added": null
         },
         "adblockplus": {
-          "version_added": true
+          "version_added": false
         },
         "adguard": {
           "version_added": true
         },
         "ublockorigin": {
-          "version_added": null
+          "version_added": true
         }
       },
       "status": {
         "experimental": false,
-        "standard_track": true,
+        "standard_track": false,
         "deprecated": false
       }
     }

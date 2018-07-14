@@ -1,0 +1,32 @@
+{
+  "hiding": {
+    "allow": {
+      "__compat": {
+        "description": "Exception rules",
+        "mdn_url": "https://adblockplus.org/filters#elemhide_exceptions",
+        "support": {
+          "adblock": {
+            "version_added": true
+          },
+          "adblockplus": {
+            "version_added": true
+          },
+          "adguard": {
+            "partial_implementation": true,
+            "notes": [
+              "Filters without domains are being ignored"
+            ]
+          },
+          "ublockorigin": {
+            "version_added": null
+          }
+        },
+        "status": {
+          "experimental": false,
+          "standard_track": true,
+          "deprecated": false
+        }
+      }
+    }
+  }
+}

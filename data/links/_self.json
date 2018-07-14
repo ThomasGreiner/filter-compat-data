@@ -1,10 +1,12 @@
 {
-  "blocking": {
+  "links": {
     "__compat": {
-      "description": "Request blocking",
-      "mdn_url": "https://adblockplus.org/filters#introduction",
+      "description": "Subscription links",
       "support": {
         "adblock": {
+          "version_added": true
+        },
+        "adblockbrowser": {
           "version_added": true
         },
         "adblockplus": {
@@ -13,11 +15,11 @@
         "adguard": {
           "version_added": true
         },
+        "libadblockplus": {
+          "version_added": false
+        },
         "ublockorigin": {
-          "version_added": true,
-          "notes": [
-            "Filters are also matched against top level frame request."
-          ]
+          "version_added": true
         }
       },
       "status": {
