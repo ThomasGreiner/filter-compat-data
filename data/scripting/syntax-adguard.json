@@ -1,0 +1,29 @@
+{
+  "scripting": {
+    "syntax-adguard": {
+      "__compat": {
+        "description": "...#%#...",
+        "mdn_url": "https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#javascript-rules-syntax-1",
+        "support": {
+          "adblock": {
+            "version_added": null
+          },
+          "adblockplus": {
+            "version_added": false
+          },
+          "adguard": {
+            "version_added": true
+          },
+          "ublockorigin": {
+            "version_added": false
+          }
+        },
+        "status": {
+          "experimental": false,
+          "standard_track": false,
+          "deprecated": false
+        }
+      }
+    }
+  }
+}
