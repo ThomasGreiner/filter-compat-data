@@ -1,0 +1,37 @@
+{
+  "comments": {
+    "include": {
+      "__compat": {
+        "description": "! Include: ...",
+        "mdn_url": "https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#include-file-name",
+        "support": {
+          "adblock": {
+            "version_added": null
+          },
+          "adblockplus": {
+            "alternative_name": "%include ...%",
+            "version_added": false,
+            "notes": [
+              "Provided via <a href='https://github.com/adblockplus/python-abp'>python-abp</a> tool."
+            ]
+          },
+          "adguard": {
+            "version_added": false
+          },
+          "ublockorigin": {
+            "alternative_name": "!#include ...",
+            "version_added": true,
+            "notes": [
+              "Only allows paths that are located in the same directory."
+            ]
+          }
+        },
+        "status": {
+          "experimental": false,
+          "standard_track": false,
+          "deprecated": false
+        }
+      }
+    }
+  }
+}
