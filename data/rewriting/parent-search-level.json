@@ -1,0 +1,29 @@
+{
+  "rewriting": {
+    "parent-search-level": {
+      "__compat": {
+        "description": "[parent-search-level=\"...\"]",
+        "mdn_url": "https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#parent-search-level",
+        "support": {
+          "adblock": {
+            "version_added": null
+          },
+          "adblockplus": {
+            "version_added": false
+          },
+          "adguard": {
+            "version_added": true
+          },
+          "ublockorigin": {
+            "version_added": null
+          }
+        },
+        "status": {
+          "experimental": false,
+          "standard_track": false,
+          "deprecated": false
+        }
+      }
+    }
+  }
+}

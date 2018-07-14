@@ -1,0 +1,32 @@
+{
+  "rewriting": {
+    "script-contains": {
+      "__compat": {
+        "description": "script:contains(...)",
+        "mdn_url": "https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#html-filters",
+        "support": {
+          "adblock": {
+            "version_added": null
+          },
+          "adblockplus": {
+            "version_added": false
+          },
+          "adguard": {
+            "version_added": null
+          },
+          "ublockorigin": {
+            "version_added": false,
+            "notes": [
+              "Deprecated in favor of <code>script:has-text()</code>"
+            ]
+          }
+        },
+        "status": {
+          "experimental": false,
+          "standard_track": false,
+          "deprecated": true
+        }
+      }
+    }
+  }
+}
