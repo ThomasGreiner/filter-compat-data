@@ -90,7 +90,10 @@
             "version_added": true
           },
           "ublockorigin": {
-            "version_added": true
+            "version_added": true,
+            "notes": [
+              "Filters which can be read as a valid hostname are treated as such and not as a URL pattern."
+            ]
           }
         },
         "status": {
