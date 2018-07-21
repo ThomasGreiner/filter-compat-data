@@ -2,7 +2,7 @@
   "links": {
     "subscribe-adblockplus-org": {
       "__compat": {
-        "description": "https://subscribe.adblockplus.org?...",
+        "description": "<code>https://subscribe.adblockplus.org?...</code>",
         "support": {
           "adblock": {
             "version_added": true

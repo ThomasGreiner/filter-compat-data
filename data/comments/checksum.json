@@ -2,7 +2,7 @@
   "comments": {
     "checksum": {
       "__compat": {
-        "description": "! Checksum: ...",
+        "description": "<code>! Checksum: ...</code>",
         "mdn_url": "https://adblockplus.org/filters#special-comments",
         "support": {
           "adblock": {

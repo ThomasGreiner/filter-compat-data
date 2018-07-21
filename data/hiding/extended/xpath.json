@@ -3,7 +3,7 @@
     "extended": {
       "xpath": {
         "__compat": {
-          "description": ":xpath()",
+          "description": "<code>:xpath()</code>",
           "mdn_url": "https://github.com/gorhill/uBlock/wiki/Procedural-cosmetic-filters#subjectxpatharg",
           "support": {
             "adblock": {

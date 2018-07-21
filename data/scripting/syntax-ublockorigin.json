@@ -2,7 +2,7 @@
   "scripting": {
     "syntax-ublockorigin": {
       "__compat": {
-        "description": "...##script:inject(...)",
+        "description": "Syntax: <code>...##script:inject(...)</code>",
         "mdn_url": "https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#scriptlet-injection",
         "support": {
           "adblock": {

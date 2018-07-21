@@ -2,7 +2,7 @@
   "comments": {
     "include": {
       "__compat": {
-        "description": "! Include: ...",
+        "description": "<code>! Include: ...</code>",
         "mdn_url": "https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#include-file-name",
         "support": {
           "adblock": {

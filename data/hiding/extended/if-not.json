@@ -3,7 +3,7 @@
     "extended": {
       "if-not": {
         "__compat": {
-          "description": ":if-not()",
+          "description": "<code>:if-not()</code>",
           "mdn_url": "https://github.com/gorhill/uBlock/wiki/Procedural-cosmetic-filters#subjectif-notarg",
           "support": {
             "adblock": {

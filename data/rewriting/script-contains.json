@@ -2,7 +2,7 @@
   "rewriting": {
     "script-contains": {
       "__compat": {
-        "description": "script:contains(...)",
+        "description": "<code>script:contains(...)</code>",
         "mdn_url": "https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#html-filters",
         "support": {
           "adblock": {

@@ -3,7 +3,7 @@
     "extended": {
       "properties": {
         "__compat": {
-          "description": ":properties()",
+          "description": "<code>:properties()</code>",
           "mdn_url": "https://adblockplus.org/filters#elemhide-emulation",
           "support": {
             "adblock": {

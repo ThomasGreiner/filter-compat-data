@@ -3,7 +3,7 @@
     "patterns": {
       "anchors": {
         "__compat": {
-          "description": "| anchors",
+          "description": "<code>|</code> anchors",
           "mdn_url": "https://adblockplus.org/filters#anchors",
           "support": {
             "adblock": {

@@ -2,7 +2,7 @@
   "links": {
     "abp-subscribe": {
       "__compat": {
-        "description": "abp:subscribe?...",
+        "description": "<code>abp:subscribe?...</code>",
         "support": {
           "adblock": {
             "version_added": true

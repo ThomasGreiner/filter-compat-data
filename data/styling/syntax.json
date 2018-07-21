@@ -2,7 +2,7 @@
   "styling": {
     "syntax": {
       "__compat": {
-        "description": "...#$#...",
+        "description": "Syntax: <code>...#$#...</code>",
         "mdn_url": "https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#cosmetic-css-rules-syntax",
         "support": {
           "adblock": {

@@ -2,7 +2,7 @@
   "rewriting": {
     "syntax-ublockorigin": {
       "__compat": {
-        "description": "...##^...",
+        "description": "Syntax: <code>...##^...</code>",
         "mdn_url": "https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#html-filters",
         "support": {
           "adblock": {

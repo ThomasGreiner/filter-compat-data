@@ -2,7 +2,7 @@
   "rewriting": {
     "max-length": {
       "__compat": {
-        "description": "[max-length=\"...\"]",
+        "description": "<code>[max-length=\"...\"]</code>",
         "mdn_url": "https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#max-length",
         "support": {
           "adblock": {

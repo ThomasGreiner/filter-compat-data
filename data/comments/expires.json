@@ -2,7 +2,7 @@
   "comments": {
     "expires": {
       "__compat": {
-        "description": "! Expires: ...",
+        "description": "<code>! Expires: ...</code>",
         "mdn_url": "https://adblockplus.org/filters#special-comments",
         "support": {
           "adblock": {

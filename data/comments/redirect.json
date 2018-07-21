@@ -2,7 +2,7 @@
   "comments": {
     "redirect": {
       "__compat": {
-        "description": "! Redirect: ...",
+        "description": "<code>! Redirect: ...</code>",
         "mdn_url": "https://adblockplus.org/filters#special-comments",
         "support": {
           "adblock": {

@@ -2,7 +2,7 @@
   "rewriting": {
     "min-length": {
       "__compat": {
-        "description": "[min-length=\"...\"]",
+        "description": "<code>[min-length=\"...\"]</code>",
         "mdn_url": "https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#min-length",
         "support": {
           "adblock": {

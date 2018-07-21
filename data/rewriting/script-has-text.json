@@ -2,7 +2,7 @@
   "rewriting": {
     "script-has-text": {
       "__compat": {
-        "description": "script:has-text(...)",
+        "description": "<code>script:has-text(...)</code>",
         "mdn_url": "https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#html-filters",
         "support": {
           "adblock": {

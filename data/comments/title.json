@@ -2,7 +2,7 @@
   "comments": {
     "title": {
       "__compat": {
-        "description": "! Title: ...",
+        "description": "<code>! Title: ...</code>",
         "mdn_url": "https://adblockplus.org/filters#special-comments",
         "support": {
           "adblock": {

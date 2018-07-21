@@ -2,7 +2,7 @@
   "rewriting": {
     "wildcard": {
       "__compat": {
-        "description": "[wildcard=\"...\"]",
+        "description": "<code>[wildcard=\"...\"]</code>",
         "mdn_url": "https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#wildcard",
         "support": {
           "adblock": {

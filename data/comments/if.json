@@ -2,7 +2,7 @@
   "comments": {
     "if": {
       "__compat": {
-        "description": "! If: ...",
+        "description": "<code>! If: ...</code>",
         "mdn_url": "https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#if-condition",
         "support": {
           "adblock": {

@@ -3,7 +3,7 @@
     "extended": {
       "has": {
         "__compat": {
-          "description": ":has()",
+          "description": "<code>:has()</code>",
           "mdn_url": "https://www.w3.org/TR/selectors-4/#has-pseudo",
           "support": {
             "adblock": {

@@ -2,7 +2,7 @@
   "styling": {
     "style": {
       "__compat": {
-        "description": ":style()",
+        "description": "<code>:style()</code>",
         "mdn_url": "https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#style",
         "support": {
           "adblock": {

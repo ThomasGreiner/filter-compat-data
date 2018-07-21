@@ -3,7 +3,7 @@
     "patterns": {
       "placeholders-any": {
         "__compat": {
-          "description": "* placeholders",
+          "description": "<code>*</code> placeholders",
           "mdn_url": "https://adblockplus.org/filters#basic",
           "support": {
             "adblock": {

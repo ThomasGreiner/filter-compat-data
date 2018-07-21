@@ -3,7 +3,7 @@
     "extended": {
       "contains": {
         "__compat": {
-          "description": ":contains()",
+          "description": "<code>:contains()</code>",
           "mdn_url": "https://adblockplus.org/filters#elemhide-emulation",
           "support": {
             "adblock": {

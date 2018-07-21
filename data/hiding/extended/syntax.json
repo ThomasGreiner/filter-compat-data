@@ -3,7 +3,7 @@
     "extended": {
       "syntax": {
         "__compat": {
-          "description": "...#?#...",
+          "description": "Syntax: <code>...#?#...</code>",
           "mdn_url": "https://adblockplus.org/filters#elemhide-emulation",
           "support": {
             "adblock": {
