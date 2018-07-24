@@ -11,7 +11,7 @@
             "version_added": true
           },
           "adblockplus": {
-            "version_added": true
+            "version_added": "0.7.1.2 (1.2)"
           },
           "adguard": {
             "partial_implementation": true,
