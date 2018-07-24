@@ -20,7 +20,7 @@
           },
           "ublockorigin": {
             "alternative_name": "!#include ...",
-            "version_added": true,
+            "version_added": "1.15",
             "notes": [
               "Only allows paths that are located in the same directory."
             ]

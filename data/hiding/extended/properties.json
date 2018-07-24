@@ -19,7 +19,7 @@
             },
             "ublockorigin": {
               "alternative_name": ":matches-css()",
-              "version_added": true
+              "version_added": "1.9"
             }
           },
           "status": {
