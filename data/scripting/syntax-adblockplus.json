@@ -1,8 +1,9 @@
 {
   "scripting": {
-    "predefined": {
+    "syntax": {
       "__compat": {
-        "description": "Predefined scripts",
+        "description": "Syntax: <code>...#$#...</code>",
+        "mdn_url": "",
         "support": {
           "adblock": {
             "version_added": null
@@ -14,7 +15,7 @@
             "version_added": false
           },
           "ublockorigin": {
-            "version_added": true
+            "version_added": false
           }
         },
         "status": {
