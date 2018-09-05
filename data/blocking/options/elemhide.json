@@ -15,7 +15,10 @@
               "version_added": true
             },
             "ublockorigin": {
-              "version_added": null
+              "version_added": true,
+              "notes": [
+                "Limited to generic hiding rules"
+              ]
             }
           },
           "status": {

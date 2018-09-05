@@ -18,7 +18,10 @@
             },
             "ublockorigin": {
               "alternative_name": ":has-text()",
-              "version_added": true
+              "version_added": true,
+              "notes": [
+                "Also supports <code>:-abp-contains()</code>"
+              ]
             }
           },
           "status": {

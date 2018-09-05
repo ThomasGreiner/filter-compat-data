@@ -15,7 +15,10 @@
             "version_added": false
           },
           "ublockorigin": {
-            "version_added": true
+            "version_added": true,
+            "notes": [
+              "Support for <code>js(...)</code> shorthand added in 1.15.12"
+            ]
           }
         },
         "status": {

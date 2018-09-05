@@ -17,7 +17,10 @@
               "version_added": true
             },
             "ublockorigin": {
-              "version_added": "1.8"
+              "version_added": "1.8",
+              "notes": [
+                "Also supports <code>:-abp-has()</code>"
+              ]
             }
           },
           "status": {
