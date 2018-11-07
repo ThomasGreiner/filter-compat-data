@@ -1,0 +1,24 @@
+{
+  "links": {
+    "params": {
+      "requiresLocation": {
+        "__compat": {
+          "description": "<code>requiresLocation</code>",
+          "support": {
+            "adblockplus": {
+              "version_added": false
+            },
+            "ublockorigin": {
+              "version_added": false
+            }
+          },
+          "status": {
+            "experimental": false,
+            "standard_track": true,
+            "deprecated": true
+          }
+        }
+      }
+    }
+  }
+}

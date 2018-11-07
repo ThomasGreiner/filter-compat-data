@@ -1,0 +1,27 @@
+{
+  "links": {
+    "params": {
+      "location": {
+        "__compat": {
+          "description": "<code>location</code>",
+          "support": {
+            "adblockplus": {
+              "version_added": true,
+              "notes": [
+                "Limited to FTP, HTTP and HTTPS"
+              ]
+            },
+            "ublockorigin": {
+              "version_added": "0.9.1"
+            }
+          },
+          "status": {
+            "experimental": false,
+            "standard_track": true,
+            "deprecated": false
+          }
+        }
+      }
+    }
+  }
+}

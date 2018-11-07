@@ -1,0 +1,24 @@
+{
+  "links": {
+    "params": {
+      "title": {
+        "__compat": {
+          "description": "<code>title</code>",
+          "support": {
+            "adblockplus": {
+              "version_added": true
+            },
+            "ublockorigin": {
+              "version_added": "0.9.1"
+            }
+          },
+          "status": {
+            "experimental": false,
+            "standard_track": true,
+            "deprecated": false
+          }
+        }
+      }
+    }
+  }
+}

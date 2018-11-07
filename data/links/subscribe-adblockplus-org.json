@@ -14,17 +14,13 @@
             "version_added": "2.6.10 (1.9)"
           },
           "adguard": {
-            "partial_implementation": true,
-            "notes": [
-              "Limited to certain domains",
-              "Filter lists are imported as individual filters"
-            ]
+            "version_added": true
           },
           "libadblockplus": {
             "version_added": false
           },
           "ublockorigin": {
-            "version_added": true
+            "version_added": "1.4"
           }
         },
         "status": {

@@ -1,0 +1,26 @@
+{
+  "links": {
+    "params": {
+      "__compat": {
+        "description": "Parameters",
+        "support": {
+          "adblockplus": {
+            "version_added": true
+          },
+          "ublockorigin": {
+            "version_added": "0.9.1",
+            "partial_implementation": true,
+            "notes": [
+              "Limited to predefined order"
+            ]
+          }
+        },
+        "status": {
+          "experimental": false,
+          "standard_track": true,
+          "deprecated": false
+        }
+      }
+    }
+  }
+}
