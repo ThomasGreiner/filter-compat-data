@@ -11,6 +11,9 @@
                 "Limited to FTP, HTTP and HTTPS"
               ]
             },
+            "adguard": {
+              "version_added": "2.0.7"
+            },
             "ublockorigin": {
               "version_added": "0.9.1"
             }

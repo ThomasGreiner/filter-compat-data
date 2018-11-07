@@ -7,6 +7,12 @@
           "adblockplus": {
             "version_added": true
           },
+          "adguard": {
+            "version_added": "2.0.7",
+            "notes": [
+              "Limited to predefined order before 2.0.12"
+            ]
+          },
           "ublockorigin": {
             "version_added": "0.9.1",
             "partial_implementation": true,

@@ -13,6 +13,7 @@
           "version_added": "0.7.1.2 (1.2)"
         },
         "adguard": {
+          "version_added": "2.0.7",
           "partial_implementation": true,
           "notes": [
             "Filter lists are imported as individual filters",
