@@ -6,7 +6,7 @@
           "description": "<code>location</code>",
           "support": {
             "adblockplus": {
-              "version_added": true,
+              "version_added": "0.7.1.2 (1.2)",
               "notes": [
                 "Limited to FTP, HTTP and HTTPS"
               ]

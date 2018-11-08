@@ -6,7 +6,8 @@
           "description": "<code>requiresLocation</code>",
           "support": {
             "adblockplus": {
-              "version_added": false
+              "version_added": "1.2 (n/a)",
+              "version_removed": "2.9.1 (n/a)"
             },
             "adguard": {
               "version_added": false
