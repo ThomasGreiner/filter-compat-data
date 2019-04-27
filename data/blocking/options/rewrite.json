@@ -9,7 +9,10 @@
               "version_added": null
             },
             "adblockplus": {
-              "version_added": "3.2"
+              "version_added": "3.2",
+              "notes": [
+                "Limited to only internal resources since 3.5.2"
+              ]
             },
             "adguard": {
               "version_added": false
