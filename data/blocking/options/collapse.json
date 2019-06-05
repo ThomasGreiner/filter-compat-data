@@ -9,7 +9,8 @@
               "version_added": true
             },
             "adblockplus": {
-              "version_added": true
+              "version_added": true,
+              "version_removed": "3.6"
             },
             "adguard": {
               "version_added": false

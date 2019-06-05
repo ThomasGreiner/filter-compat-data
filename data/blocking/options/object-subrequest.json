@@ -10,6 +10,7 @@
             },
             "adblockplus": {
               "version_added": true,
+              "version_removed": "3.6",
               "notes": [
                 "On browsers other than Firefox this option also matches requests of the type OBJECT."
               ]
