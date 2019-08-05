@@ -1,0 +1,21 @@
+{
+  "scripting": {
+    "predefined": {
+      "abort-current-inline-script": {
+        "__compat": {
+          "description": "<code>abort-current-inline-script</code>",
+          "support": {
+            "adblockplus": {
+              "version_added": true
+            }
+          },
+          "status": {
+            "experimental": true,
+            "standard_track": true,
+            "deprecated": false
+          }
+        }
+      }
+    }
+  }
+}

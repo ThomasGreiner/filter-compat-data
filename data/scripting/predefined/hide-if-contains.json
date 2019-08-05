@@ -1,0 +1,21 @@
+{
+  "scripting": {
+    "predefined": {
+      "hide-if-contains": {
+        "__compat": {
+          "description": "<code>hide-if-contains</code>",
+          "support": {
+            "adblockplus": {
+              "version_added": true
+            }
+          },
+          "status": {
+            "experimental": true,
+            "standard_track": true,
+            "deprecated": false
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "scripting": {
+    "predefined": {
+      "abort-on-property-write": {
+        "__compat": {
+          "description": "<code>abort-on-property-write</code>",
+          "support": {
+            "adblockplus": {
+              "version_added": true
+            }
+          },
+          "status": {
+            "experimental": true,
+            "standard_track": true,
+            "deprecated": false
+          }
+        }
+      }
+    }
+  }
+}

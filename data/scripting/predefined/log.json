@@ -1,0 +1,21 @@
+{
+  "scripting": {
+    "predefined": {
+      "log": {
+        "__compat": {
+          "description": "<code>log</code>",
+          "support": {
+            "adblockplus": {
+              "version_added": true
+            }
+          },
+          "status": {
+            "experimental": true,
+            "standard_track": true,
+            "deprecated": false
+          }
+        }
+      }
+    }
+  }
+}

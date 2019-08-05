@@ -1,0 +1,21 @@
+{
+  "scripting": {
+    "predefined": {
+      "uabinject-defuser": {
+        "__compat": {
+          "description": "<code>uabinject-defuser</code>",
+          "support": {
+            "adblockplus": {
+              "version_added": true
+            }
+          },
+          "status": {
+            "experimental": true,
+            "standard_track": true,
+            "deprecated": false
+          }
+        }
+      }
+    }
+  }
+}
