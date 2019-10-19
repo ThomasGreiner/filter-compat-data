@@ -17,6 +17,12 @@
             "chromium": {
               "version_added": true
             },
+            "cliqz": {
+              "version_added": true,
+              "notes": [
+                "Also supports <code>xhr</code>"
+              ]
+            },
             "ublockorigin": {
               "version_added": null
             }

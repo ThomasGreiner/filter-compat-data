@@ -19,6 +19,12 @@
             "chromium": {
               "version_added": false
             },
+            "cliqz": {
+              "version_added": true,
+              "notes": [
+                "Also supports <code>:-abp-contains()</code> and <code>:has-text()</code>"
+              ]
+            },
             "ublockorigin": {
               "alternative_name": ":has-text()",
               "version_added": true,

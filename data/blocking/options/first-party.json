@@ -18,6 +18,12 @@
               "alternative_name": "domainType: firstParty",
               "version_added": true
             },
+            "cliqz": {
+              "version_added": true,
+              "notes": [
+                "Also supports <code>1p</code>"
+              ]
+            },
             "ublockorigin": {
               "version_added": true
             }

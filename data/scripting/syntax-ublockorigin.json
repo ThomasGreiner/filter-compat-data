@@ -17,6 +17,9 @@
           "chromium": {
             "version_added": false
           },
+          "cliqz": {
+            "version_added": true
+          },
           "ublockorigin": {
             "version_added": true,
             "notes": [

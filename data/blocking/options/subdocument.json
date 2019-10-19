@@ -18,6 +18,12 @@
               "alternative_name": "sub_frame",
               "version_added": true
             },
+            "cliqz": {
+              "version_added": true,
+              "notes": [
+                "Also supports <code>frame</code>"
+              ]
+            },
             "ublockorigin": {
               "version_added": null
             }

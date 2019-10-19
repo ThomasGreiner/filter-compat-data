@@ -20,6 +20,10 @@
             "chromium": {
               "version_added": false
             },
+            "cliqz": {
+              "alternative_name": ":matches-css-after()",
+              "version_added": true
+            },
             "ublockorigin": {
               "alternative_name": ":matches-css-after()",
               "version_added": "1.10.2"

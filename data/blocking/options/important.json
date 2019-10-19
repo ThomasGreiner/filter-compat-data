@@ -14,6 +14,12 @@
             "adguard": {
               "version_added": false
             },
+            "cliqz": {
+              "partial_implementation": true,
+              "notes": [
+                "Not supported for exception rules (see <a href='https://github.com/cliqz-oss/adblocker/wiki/Compatibility-Matrix#footnote1'>Cliqz Wiki</a>)"
+              ]
+            },
             "ublockorigin": {
               "version_added": true
             }

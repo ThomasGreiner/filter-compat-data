@@ -17,6 +17,10 @@
             "adguard": {
               "version_added": false
             },
+            "cliqz": {
+              "alternative_name": "redirect",
+              "version_added": true
+            },
             "ublockorigin": {
               "alternative_name": "redirect",
               "version_added": true

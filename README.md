@@ -30,6 +30,7 @@ See also [JSON schema documentation][mdn-schema].
 - [`adblockplus`][adblockplus]: Adblock Plus (desktop extension)
 - [`adguard`][adguard]: AdGuard (desktop extension)
 - [`chromium`][chromium]: Chromium Beta - declarativeNetRequest (desktop browser)
+- [`cliqz`](cliqz): Cliqz (desktop extension)
 - [`libadblockplus`][libadblockplus]: libadblockplus (C++ library)
 - [`ublockorigin`][ublockorigin]: uBlock Origin (desktop extension)
 
@@ -50,6 +51,7 @@ Run `node test` to run tests.
 [adblockplus]: https://adblockplus.org/
 [adguard]: https://adguard.com
 [chromium]: https://developer.chrome.com/extensions/declarativeNetRequest
+[cliqz]: https://github.com/cliqz-oss/adblocker/
 [greinr-docs]: https://www.greinr.com/docs/filters/
 [libadblockplus]: https://github.com/adblockplus/libadblockplus
 [mdn-schema]: https://github.com/mdn/browser-compat-data/blob/master/schemas/compat-data-schema.md
