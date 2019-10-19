@@ -14,6 +14,10 @@
             "adguard": {
               "version_added": true
             },
+            "chromium": {
+              "alternative_name": "sub_frame",
+              "version_added": true
+            },
             "ublockorigin": {
               "version_added": null
             }

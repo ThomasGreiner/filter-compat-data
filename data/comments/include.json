@@ -18,6 +18,9 @@
           "adguard": {
             "version_added": false
           },
+          "chromium": {
+            "version_added": false
+          },
           "ublockorigin": {
             "alternative_name": "!#include ...",
             "version_added": "1.15",

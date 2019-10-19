@@ -15,6 +15,9 @@
             "alternative_name": "!+...",
             "version_added": true
           },
+          "chromium": {
+            "version_added": false
+          },
           "ublockorigin": {
             "alternative_name": "!#if ...",
             "version_added": true

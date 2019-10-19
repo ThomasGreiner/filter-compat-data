@@ -17,6 +17,9 @@
               "alternative_name": ":matches-css-after()",
               "version_added": true
             },
+            "chromium": {
+              "version_added": false
+            },
             "ublockorigin": {
               "alternative_name": ":matches-css-after()",
               "version_added": "1.10.2"

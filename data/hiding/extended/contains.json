@@ -16,6 +16,9 @@
             "adguard": {
               "version_added": true
             },
+            "chromium": {
+              "version_added": false
+            },
             "ublockorigin": {
               "alternative_name": ":has-text()",
               "version_added": true,

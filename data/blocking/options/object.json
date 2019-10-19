@@ -20,6 +20,9 @@
                 "On browsers other than Firefox this option also matches requests of the type OBJECT_SUBREQUEST."
               ]
             },
+            "chromium": {
+              "version_added": true
+            },
             "ublockorigin": {
               "version_added": null
             }

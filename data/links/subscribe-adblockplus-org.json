@@ -16,6 +16,9 @@
           "adguard": {
             "version_added": "2.0.12"
           },
+          "chromium": {
+            "version_added": false
+          },
           "libadblockplus": {
             "version_added": false
           },
