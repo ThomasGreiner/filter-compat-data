@@ -17,6 +17,8 @@ _The data contained in this repository is still incomplete and may contain vario
 - [comments](comments): Comments and filter list meta data
 - [hiding](hiding): DOM element hiding
 - [links](links): Filter list subscription links
+- [rewriting](rewriting): Network request rewriting
+- [scripting](scripting): JavaScript injection
 - [styling](styling): CSS style injection
 
 See also [JSON schema documentation][mdn-schema].
