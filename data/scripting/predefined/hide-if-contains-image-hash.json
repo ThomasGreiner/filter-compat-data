@@ -1,12 +1,12 @@
 {
   "scripting": {
     "predefined": {
-      "abort-current-inline-script": {
+      "hide-if-contains-image-hash": {
         "__compat": {
-          "description": "<code>abort-current-inline-script</code>",
+          "description": "<code>hide-if-contains-image-hash</code>",
           "support": {
             "adblockplus": {
-              "version_added": "3.4.3"
+              "version_added": "3.6.2"
             }
           },
           "status": {

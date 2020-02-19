@@ -6,7 +6,7 @@
           "description": "<code>strip-fetch-query-parameter</code>",
           "support": {
             "adblockplus": {
-              "version_added": true
+              "version_added": "3.5.1"
             }
           },
           "status": {

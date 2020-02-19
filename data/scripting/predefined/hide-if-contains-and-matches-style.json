@@ -6,7 +6,8 @@
           "description": "<code>hide-if-contains-and-matches-style</code>",
           "support": {
             "adblockplus": {
-              "version_added": true
+              "version_added": "3.3.2",
+              "notes": ["Not supported on Firefox before 3.4"]
             }
           },
           "status": {

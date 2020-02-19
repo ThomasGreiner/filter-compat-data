@@ -1,12 +1,12 @@
 {
   "scripting": {
     "predefined": {
-      "abort-current-inline-script": {
+      "debug": {
         "__compat": {
-          "description": "<code>abort-current-inline-script</code>",
+          "description": "<code>debug</code>",
           "support": {
             "adblockplus": {
-              "version_added": "3.4.3"
+              "version_added": "3.8"
             }
           },
           "status": {

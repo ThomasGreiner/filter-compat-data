@@ -1,12 +1,12 @@
 {
   "scripting": {
     "predefined": {
-      "abort-current-inline-script": {
+      "ml-hide-if-graph-matches": {
         "__compat": {
-          "description": "<code>abort-current-inline-script</code>",
+          "description": "<code>ml-hide-if-graph-matches</code>",
           "support": {
             "adblockplus": {
-              "version_added": "3.4.3"
+              "version_added": "3.8"
             }
           },
           "status": {

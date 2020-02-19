@@ -6,7 +6,7 @@
           "description": "<code>abort-on-property-read</code>",
           "support": {
             "adblockplus": {
-              "version_added": true
+              "version_added": "3.4.1"
             }
           },
           "status": {

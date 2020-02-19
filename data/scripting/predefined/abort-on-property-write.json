@@ -6,7 +6,7 @@
           "description": "<code>abort-on-property-write</code>",
           "support": {
             "adblockplus": {
-              "version_added": true
+              "version_added": "3.4.3"
             }
           },
           "status": {

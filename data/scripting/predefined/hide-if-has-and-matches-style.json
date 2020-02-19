@@ -6,7 +6,7 @@
           "description": "<code>hide-if-has-and-matches-style</code>",
           "support": {
             "adblockplus": {
-              "version_added": true
+              "version_added": "3.4.2"
             }
           },
           "status": {
