@@ -4,9 +4,10 @@
       "hide-if-contains": {
         "__compat": {
           "description": "<code>hide-if-contains</code>",
+          "mdn_url": "https://help.eyeo.com/en/adblockplus/snippet-filters-tutorial#snippets-ref",
           "support": {
             "adblockplus": {
-              "version_added": true
+              "version_added": "3.3"
             }
           },
           "status": {

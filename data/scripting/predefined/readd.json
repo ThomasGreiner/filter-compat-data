@@ -4,9 +4,10 @@
       "readd": {
         "__compat": {
           "description": "<code>readd</code>",
+          "mdn_url": "https://help.eyeo.com/en/adblockplus/snippet-filters-tutorial#snippets-ref",
           "support": {
             "adblockplus": {
-              "version_added": true
+              "version_added": "3.3"
             }
           },
           "status": {

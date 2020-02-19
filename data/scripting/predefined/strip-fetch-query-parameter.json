@@ -4,6 +4,7 @@
       "strip-fetch-query-parameter": {
         "__compat": {
           "description": "<code>strip-fetch-query-parameter</code>",
+          "mdn_url": "https://help.eyeo.com/en/adblockplus/snippet-filters-tutorial#snippets-ref",
           "support": {
             "adblockplus": {
               "version_added": "3.5.1"

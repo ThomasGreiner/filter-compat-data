@@ -4,6 +4,7 @@
       "abort-on-property-write": {
         "__compat": {
           "description": "<code>abort-on-property-write</code>",
+          "mdn_url": "https://help.eyeo.com/en/adblockplus/snippet-filters-tutorial#snippets-ref",
           "support": {
             "adblockplus": {
               "version_added": "3.4.3"

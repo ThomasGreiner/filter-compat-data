@@ -4,6 +4,7 @@
       "hide-if-contains-visible-text": {
         "__compat": {
           "description": "<code>hide-if-contains-visible-text</code>",
+          "mdn_url": "https://help.eyeo.com/en/adblockplus/snippet-filters-tutorial#snippets-ref",
           "support": {
             "adblockplus": {
               "version_added": "3.6"

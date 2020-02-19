@@ -4,6 +4,7 @@
       "hide-if-contains-image-hash": {
         "__compat": {
           "description": "<code>hide-if-contains-image-hash</code>",
+          "mdn_url": "https://help.eyeo.com/en/adblockplus/snippet-filters-tutorial#snippets-ref",
           "support": {
             "adblockplus": {
               "version_added": "3.6.2"

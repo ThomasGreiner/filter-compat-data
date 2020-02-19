@@ -4,6 +4,7 @@
       "debug": {
         "__compat": {
           "description": "<code>debug</code>",
+          "mdn_url": "https://help.eyeo.com/en/adblockplus/snippet-filters-tutorial#snippets-ref",
           "support": {
             "adblockplus": {
               "version_added": "3.8"

@@ -3,6 +3,7 @@
     "predefined": {
       "__compat": {
         "description": "Predefined scripts",
+        "mdn_url": "https://help.eyeo.com/en/adblockplus/snippet-filters-tutorial",
         "support": {
           "adblock": {
             "version_added": null

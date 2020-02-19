@@ -4,6 +4,7 @@
       "abort-current-inline-script": {
         "__compat": {
           "description": "<code>abort-current-inline-script</code>",
+          "mdn_url": "https://help.eyeo.com/en/adblockplus/snippet-filters-tutorial#snippets-ref",
           "support": {
             "adblockplus": {
               "version_added": "3.4.3"

@@ -4,6 +4,7 @@
       "hide-if-has-and-matches-style": {
         "__compat": {
           "description": "<code>hide-if-has-and-matches-style</code>",
+          "mdn_url": "https://help.eyeo.com/en/adblockplus/snippet-filters-tutorial#snippets-ref",
           "support": {
             "adblockplus": {
               "version_added": "3.4.2"

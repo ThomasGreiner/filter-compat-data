@@ -4,10 +4,13 @@
       "hide-if-contains-and-matches-style": {
         "__compat": {
           "description": "<code>hide-if-contains-and-matches-style</code>",
+          "mdn_url": "https://help.eyeo.com/en/adblockplus/snippet-filters-tutorial#snippets-ref",
           "support": {
             "adblockplus": {
               "version_added": "3.3.2",
-              "notes": ["Not supported on Firefox before 3.4"]
+              "notes": [
+                "Not supported on Firefox before 3.4"
+              ]
             }
           },
           "status": {
