@@ -1,4 +1,6 @@
 {
+  "version": "2019.10.19",
+  "name": "filter-compat-data",
   "license": "Artistic-2.0",
   "scripts": {
     "test": "node test"
